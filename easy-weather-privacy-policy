@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Easy Weather</title>
+</head>
+<body>
+
+    <h1>Privacy Policy for Easy Weather</h1>
+
+    <p><strong>Effective Date:</strong> May 29, 2026</p>
+    <p><strong>Last Updated:</strong> May 29, 2026</p>
+
+    <p>
+        Easy Weather ("Easy Weather", "the App", "we", "our", or "us") respects your privacy.
+        This Privacy Policy explains how information is handled when you use our mobile application.
+    </p>
+
+    <h2>1. Information We Collect</h2>
+
+    <h3>Location Information</h3>
+
+    <p>
+        Easy Weather may request access to your device's precise or approximate location
+        to provide accurate weather forecasts and weather-related information for your area.
+    </p>
+
+    <p>
+        Location information is used solely to:
+    </p>
+
+    <ul>
+        <li>Determine local weather conditions</li>
+        <li>Display weather forecasts relevant to your location</li>
+        <li>Provide weather alerts and weather-related features</li>
+        <li>Improve the accuracy of weather information shown in the App</li>
+    </ul>
+
+    <p>
+        Location information is only processed when you grant permission and choose to use
+        location-based features.
+    </p>
+
+    <h2>2. Information We Do Not Collect</h2>
+
+    <p>
+        Easy Weather does not require user registration and does not collect or store:
+    </p>
+
+    <ul>
+        <li>Name</li>
+        <li>Email address</li>
+        <li>Phone number</li>
+        <li>Home address</li>
+        <li>Contacts</li>
+        <li>Photos or media files</li>
+        <li>Payment information</li>
+        <li>Government identification information</li>
+        <li>Health information</li>
+        <li>User-generated profiles</li>
+    </ul>
+
+    <h2>3. How We Use Information</h2>
+
+    <p>
+        Any information processed by Easy Weather is used exclusively to provide weather-related
+        functionality requested by the user.
+    </p>
+
+    <p>
+        We do not use information for:
+    </p>
+
+    <ul>
+        <li>Advertising</li>
+        <li>Marketing</li>
+        <li>Behavioral profiling</li>
+        <li>Selling personal information</li>
+        <li>Personalized advertising</li>
+        <li>Cross-app tracking</li>
+    </ul>
+
+    <h2>4. Data Sharing</h2>
+
+    <p>
+        To provide weather forecasts, Easy Weather may send location coordinates or selected
+        location information to third-party weather data providers.
+    </p>
+
+    <p>
+        Such information is transmitted solely for the purpose of retrieving weather data and
+        is not used by Easy Weather for advertising, analytics, profiling, or marketing purposes.
+    </p>
+
+    <h2>5. Data Storage</h2>
+
+    <p>
+        Easy Weather does not store your precise location information on its own servers.
+    </p>
+
+    <p>
+        Location information is processed temporarily and only for the duration necessary to
+        retrieve and display weather information.
+    </p>
+
+    <h2>6. Permissions</h2>
+
+    <p>
+        Easy Weather may request the following permissions:
+    </p>
+
+    <ul>
+        <li>
+            <strong>Precise Location:</strong>
+            Used to provide weather information for your exact location.
+        </li>
+        <li>
+            <strong>Approximate Location:</strong>
+            Used to provide weather information for your general area.
+        </li>
+    </ul>
+
+    <p>
+        You may grant, deny, or revoke these permissions at any time through your device settings.
+    </p>
+
+    <h2>7. Third-Party Services</h2>
+
+    <p>
+        Easy Weather may use third-party weather service providers to retrieve forecast data.
+        These providers may receive location coordinates or selected location information only
+        as required to return weather data requested by the user.
+    </p>
+
+    <p>
+        Easy Weather does not use third-party advertising networks, analytics SDKs, or tracking SDKs.
+    </p>
+
+    <h2>8. Children's Privacy</h2>
+
+    <p>
+        Easy Weather is not specifically directed toward children under the age of 13.
+        We do not knowingly collect personal information from children.
+    </p>
+
+    <h2>9. Data Security</h2>
+
+    <p>
+        We take reasonable measures to protect information processed by the App.
+        However, no method of electronic transmission or storage can be guaranteed to be
+        completely secure.
+    </p>
+
+    <h2>10. Your Choices</h2>
+
+    <p>
+        You may choose whether to share your location by:
+    </p>
+
+    <ul>
+        <li>Granting or denying location permission when requested</li>
+        <li>Changing location permissions in your device settings</li>
+        <li>Selecting locations manually when supported by the App</li>
+    </ul>
+
+    <h2>11. Changes to This Privacy Policy</h2>
+
+    <p>
+        We may update this Privacy Policy from time to time.
+        Any changes will be posted on this page and reflected by the updated
+        "Last Updated" date shown above.
+    </p>
+
+    <h2>12. Contact Us</h2>
+
+    <p>
+        If you have any questions regarding this Privacy Policy, please contact:
+    </p>
+
+    <p>
+        <strong>Email:</strong> support@mechanicaiapp.com
+    </p>
+
+</body>
+</html>
